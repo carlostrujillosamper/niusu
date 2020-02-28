@@ -1,0 +1,9 @@
+.leyenda {
+  position: absolute;
+  color: black;
+  background-color: white;
+  top:200px;
+  left:100px;
+  width: 200px;
+  height: 300px;
+}
